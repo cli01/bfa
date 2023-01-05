@@ -10,7 +10,6 @@
 #background	{
 	background-color: #242526;
 	width: 100%;
-	height: 100%;
 	margin: auto;
 			}
 
@@ -51,7 +50,6 @@ div.gallery:hover {
 
 div.gallery img {
   width: 100%;
-  height: auto;
 }
   
   * {
@@ -59,9 +57,9 @@ div.gallery img {
       }
   
   .responsive {
-	padding: 6px;
+	padding: 10px;
 	float: left;
-	width: 24.8%;
+	width: 33%;
       }
   
   @media only screen and (max-width: 700px) {

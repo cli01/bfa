@@ -4,7 +4,6 @@ body {
     font-family: 'Poppins';
     color:white;
     font: size 10px;
-    
 }
 
 .DivStyle {
@@ -14,7 +13,7 @@ body {
 
 
 .footer {
-    position: absolute;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
